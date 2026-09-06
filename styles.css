@@ -31,7 +31,6 @@ nav {
   width: 100%;
   isolation: isolate;
   z-index: 10;
-  align-items:center;
 }
 .main {
   position: relative;
