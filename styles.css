@@ -166,6 +166,7 @@ nav {
     display: flex;
     align-items: flex-start;
     gap: 3rem;
+    align-items:center;
   }
   .nav__header {
     width: fit-content;
